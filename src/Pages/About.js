@@ -23,7 +23,7 @@ const About = () => {
       icon: <Users className="w-6 h-6" />,
       title: "Community Impact",
       description: "Making meaningful contributions to sports development and community welfare."
-    }
+    },
   ];
 
   return (
