@@ -2,6 +2,8 @@
   "name": "ballers-website",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
+  "homepage": "./",
   "dependencies": {
     "cra-template": "1.2.0",
     "framer-motion": "^11.15.0",
