@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BALLERS
 Design the Ballers website using React.js and Tailwind CSS with a sleek, modern and responsive design that showcasing pages like Home and About Us with creative layouts, animations and interactive elements.
 =======
@@ -76,6 +75,3 @@ A sleek and modern redesign of the [Ballers](https://ballerslife.co) website, cr
    ```bash
    npm start
    
-
->>>>>>> a63cc46 (commit1)
->>>>>>> e9da59c (commit1)
